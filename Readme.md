@@ -9,6 +9,8 @@ output |= (s) => s.Trim() | input;
 output |= "Done!";
 ```
 
+Pipeline reads data from right to left
+
 ## Examples
 
 ```csharp
